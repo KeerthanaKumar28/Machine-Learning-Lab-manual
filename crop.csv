@@ -1,0 +1,9 @@
+temperature,rainfall,soil_quality,crop_yield
+25,10,Good,500
+30,5,Poor,400
+22,15,Moderate,600
+28,8,Good,550
+26,12,Excellent,700
+29,6,Poor,450
+27,9,Moderate,650
+24,14,Excellent,750
